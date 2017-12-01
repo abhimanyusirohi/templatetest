@@ -1,9 +1,0 @@
-This is a sample Pull Request Template
-
-**Problem**:
-
-**Solution**:
-
-- Have you added unit tests
-
-@PerkinElmer/chemdraw-desktop-reviewers Please review.
